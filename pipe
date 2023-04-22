@@ -1,2 +1,2 @@
-def myVariable = "Hello, World"
+def myVariable = "Hello, Worlds"
 echo "The value of myVariable is $(myVariable)"
